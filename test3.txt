@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 I have a PC
 I have monitor, CPU, Mouse, Keyboard etc. 
+=======
+i have pc
+>>>>>>> 5fd0cfafff67a0f20c5377bcf5b2e198885be88d
