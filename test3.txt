@@ -4,3 +4,4 @@ I have monitor, CPU, Mouse, Keyboard etc.
 =======
 i have pc
 >>>>>>> 5fd0cfafff67a0f20c5377bcf5b2e198885be88d
+The Text issues sloved ... You can check it now....
